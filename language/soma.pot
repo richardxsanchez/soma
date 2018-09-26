@@ -1,0 +1,2332 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Soma 1.0.0\n"
+"POT-Creation-Date: 2018-06-07 22:36+0200\n"
+"PO-Revision-Date: 2018-03-24 01:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: NeuronThemes\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid ""
+"The page you were looking for couldn't be found. The page could be removed "
+"or you misspelled the word while searching for it."
+msgstr ""
+
+#: 404.php:15
+msgid "Go Back"
+msgstr ""
+
+#: archive.php:78
+msgid "Category"
+msgstr ""
+
+#: archive.php:80
+msgid "Tag"
+msgstr ""
+
+#: archive.php:130 index.php:150 vc_templates/soma_blog.php:253
+msgid "Continue Reading"
+msgstr ""
+
+#: archive.php:144 includes/customizer/soma_customizer.php:581
+#: includes/customizer/soma_customizer.php:862 includes/vc/vc_functions.php:156
+#: index.php:164 vc_templates/soma_blog.php:267
+#: woocommerce/loop/pagination.php:28
+msgid "Show More"
+msgstr ""
+
+#: comments.php:25
+msgid "Comment"
+msgstr ""
+
+#: comments.php:27 woocommerce/single-product-reviews.php:78
+msgid "Name"
+msgstr ""
+
+#: comments.php:28 woocommerce/single-product-reviews.php:80
+msgid "Email"
+msgstr ""
+
+#: comments.php:29
+msgid "Website"
+msgstr ""
+
+#: comments.php:38
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:38
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:35
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: functions.php:69
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:74
+msgid "WPBakery Page Builder(Visual Composer)"
+msgstr ""
+
+#: functions.php:80
+msgid "One Click Demo Importer"
+msgstr ""
+
+#: functions.php:85
+msgid "NeuronThemes Share"
+msgstr ""
+
+#: functions.php:159
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:160
+msgid "Widgets on this sidebar are displayed in blog."
+msgstr ""
+
+#: functions.php:173
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:174
+msgid "Widgets on this sidebar are displayed in Shop."
+msgstr ""
+
+#: functions.php:188
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:198
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:208
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:218
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: functions.php:228
+msgid "Footer Sidebar 5"
+msgstr ""
+
+#: functions.php:238
+msgid "Footer Sidebar 6"
+msgstr ""
+
+#: functions.php:277
+msgid ""
+"If the shop page is not assigned please go to WooCommerce > Settings > "
+"Products and assign the page The Shop as Shop Page."
+msgstr ""
+
+#: header.php:44
+msgid "Bag"
+msgstr ""
+
+#: header.php:51 templates/headers/header-lateral.php:50
+#: templates/searches/search-overlay.php:10
+#: templates/shop/taxonomy-shop.php:165 woocommerce/archive-product.php:185
+msgid "Close"
+msgstr ""
+
+#: header.php:64
+msgid "Menu"
+msgstr ""
+
+#: header.php:67
+msgid "No Menu Assigned"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:133
+msgid "Theme Options"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:139
+msgid "General"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:146
+msgid "Header"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:153
+msgid "Footer"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:161
+msgid "Shop"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:168
+#: woocommerce/checkout/review-order.php:26
+#: woocommerce/order/order-details.php:45
+msgid "Product"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:176 includes/vc/vc_functions.php:70
+msgid "Blog"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:183
+msgid "Blog Single"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:190
+#: includes/customizer/soma_customizer.php:314
+#: includes/customizer/soma_customizer.php:383 includes/vc/vc_functions.php:197
+#: includes/vc/vc_functions.php:581 includes/vc/vc_functions.php:588
+#: includes/vc/vc_functions.php:595 includes/vc/vc_functions.php:602
+#: includes/vc/vc_functions.php:609 includes/vc/vc_functions.php:616
+#: includes/vc/vc_functions.php:623 includes/vc/vc_functions.php:630
+#: includes/vc/vc_functions.php:637 includes/vc/vc_functions.php:644
+#: includes/vc/vc_functions.php:651 includes/vc/vc_functions.php:658
+#: includes/vc/vc_functions.php:665 includes/vc/vc_functions.php:672
+#: includes/vc/vc_functions.php:679 includes/vc/vc_functions.php:686
+#: includes/vc/vc_functions.php:693 includes/vc/vc_functions.php:700
+msgid "Social Media"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:203
+msgid "Responsivity"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:204
+msgid ""
+"Enable or disable the responsivity, if you disable this option your website "
+"will remain the same on small devices."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:209
+#: includes/customizer/soma_customizer.php:222
+#: includes/customizer/soma_customizer.php:294
+#: includes/customizer/soma_customizer.php:468
+#: includes/customizer/soma_customizer.php:533
+#: includes/customizer/soma_customizer.php:637
+#: includes/customizer/soma_customizer.php:703
+#: includes/customizer/soma_customizer.php:835 includes/vc/vc_functions.php:129
+msgid "Enable"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:210
+#: includes/customizer/soma_customizer.php:223
+#: includes/customizer/soma_customizer.php:295
+#: includes/customizer/soma_customizer.php:469
+#: includes/customizer/soma_customizer.php:534
+#: includes/customizer/soma_customizer.php:638
+#: includes/customizer/soma_customizer.php:704
+#: includes/customizer/soma_customizer.php:836 includes/vc/vc_functions.php:130
+msgid "Disable"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:216
+msgid "Custom Fields Panel"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:217
+msgid ""
+"Enable or disable the custom fields panel(ACF Panel), default is disabled."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:231
+msgid "Logo"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:232
+msgid "Upload you logo, will be displayed as normal logo."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:239
+msgid "Logo Width"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:240
+msgid ""
+"Enter the number that will change the logo image width. <br /><small>Note: "
+"Enter only the number without {px}.</small>"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:248
+msgid "Logo Height"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:249
+msgid ""
+"Enter the number that will change the logo image height, incase you don't "
+"add value, the height will be auto. <br /><small>Note: Enter only the number "
+"without {px}.</small>"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:257
+msgid "Logo Text"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:258
+msgid ""
+"Enter the text that will appear as logo, incase you don't upload any image "
+"as logo."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:266
+msgid "Logo Text Size"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:267
+msgid ""
+"Enter the number to change the logo text font size. <br /><small>Note: Enter "
+"only the number without {px}.</small."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:275
+msgid "Position"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:276
+msgid ""
+"Select the header position, default is static. <br /><small>Note: Absolute "
+"header will push the content to the top of page.</small."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:281
+msgid "Static"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:282
+msgid "Absolute"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:288
+#: includes/customizer/soma_customizer.php:697
+msgid "Sticky"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:289
+msgid ""
+"Make the header sticky, in scroll the header will stick to the top of page."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:301
+#: templates/headers/header-lateral.php:46
+msgid "Search"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:302
+msgid "Show or hide the search in header."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:307
+#: includes/customizer/soma_customizer.php:320
+#: includes/customizer/soma_customizer.php:361
+#: includes/customizer/soma_customizer.php:389
+#: includes/customizer/soma_customizer.php:481
+#: includes/customizer/soma_customizer.php:494
+#: includes/customizer/soma_customizer.php:507
+#: includes/customizer/soma_customizer.php:520
+#: includes/customizer/soma_customizer.php:567
+#: includes/customizer/soma_customizer.php:611
+#: includes/customizer/soma_customizer.php:624
+#: includes/customizer/soma_customizer.php:650
+#: includes/customizer/soma_customizer.php:729
+#: includes/customizer/soma_customizer.php:848
+#: includes/customizer/soma_customizer.php:892
+#: includes/customizer/soma_customizer.php:918 includes/vc/vc_functions.php:142
+#: includes/vc/vc_functions.php:515
+msgid "Show"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:308
+#: includes/customizer/soma_customizer.php:321
+#: includes/customizer/soma_customizer.php:362
+#: includes/customizer/soma_customizer.php:390
+#: includes/customizer/soma_customizer.php:482
+#: includes/customizer/soma_customizer.php:495
+#: includes/customizer/soma_customizer.php:508
+#: includes/customizer/soma_customizer.php:521
+#: includes/customizer/soma_customizer.php:568
+#: includes/customizer/soma_customizer.php:612
+#: includes/customizer/soma_customizer.php:625
+#: includes/customizer/soma_customizer.php:651
+#: includes/customizer/soma_customizer.php:730
+#: includes/customizer/soma_customizer.php:823
+#: includes/customizer/soma_customizer.php:849
+#: includes/customizer/soma_customizer.php:893
+#: includes/customizer/soma_customizer.php:919 includes/vc/vc_functions.php:116
+#: includes/vc/vc_functions.php:143 includes/vc/vc_functions.php:516
+msgid "Hide"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:315
+msgid ""
+"Show or hide the social media in header, don't forget to add the URL's in "
+"Theme Options > Social Media. <br /><small>Note: Only the social medias with "
+"URL inserted will be displayed</small>."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:327
+#: includes/customizer/soma_customizer.php:396
+msgid "Social Media Type"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:328
+#: includes/customizer/soma_customizer.php:397 includes/vc/vc_functions.php:207
+msgid "Select if you want the social media to be plain text or icons."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:333
+#: includes/customizer/soma_customizer.php:402 includes/vc/vc_functions.php:209
+msgid "Icons"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:334
+#: includes/customizer/soma_customizer.php:403 includes/vc/vc_functions.php:210
+msgid "Text"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:340
+#: includes/customizer/soma_customizer.php:409
+msgid "Social Media Style"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:341
+#: includes/customizer/soma_customizer.php:410 includes/vc/vc_functions.php:219
+msgid "Select the style of social media."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:346
+#: includes/customizer/soma_customizer.php:415 includes/vc/vc_functions.php:221
+msgid "Colorful"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:347
+#: includes/customizer/soma_customizer.php:416 includes/vc/vc_functions.php:222
+#: includes/vc/vc_functions.php:752
+msgid "Dark"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:355
+msgid "Widgets"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:356
+msgid "Show or hide the widgets in footer."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:368
+msgid "Widgets Columns"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:369
+msgid "Select the columns of widgets."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:374
+#: includes/customizer/soma_customizer.php:454
+#: includes/customizer/soma_customizer.php:743
+#: includes/customizer/soma_customizer.php:807 includes/vc/vc_functions.php:99
+#: includes/vc/vc_functions.php:488
+msgid "2 Columns"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:375
+#: includes/customizer/soma_customizer.php:455
+#: includes/customizer/soma_customizer.php:744
+#: includes/customizer/soma_customizer.php:808 includes/vc/vc_functions.php:100
+msgid "3 Columns"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:376
+#: includes/customizer/soma_customizer.php:456
+#: includes/customizer/soma_customizer.php:745
+#: includes/customizer/soma_customizer.php:809 includes/vc/vc_functions.php:101
+msgid "4 Columns"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:377
+msgid "6 Columns"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:384
+msgid ""
+"Show or hide the social media in footer, don't forget to add the URL's in "
+"Theme Options > Social Media. <br /><small>Note: Only the social medias with "
+"URL inserted will be displayed</small>."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:417 includes/vc/vc_functions.php:223
+#: includes/vc/vc_functions.php:751
+msgid "Light"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:426
+#: includes/extras/class-tgm-plugin-activation.php:2634
+#: includes/vc/vc_functions.php:205
+msgid "Type"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:427
+msgid "Select the type you want to show your products."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:432
+msgid "Basic"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:433
+msgid "Creative"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:439
+#: includes/customizer/soma_customizer.php:791 includes/vc/vc_functions.php:86
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:440
+msgid "Write how many products you want to display."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:448
+#: includes/customizer/soma_customizer.php:800 includes/vc/vc_functions.php:93
+#: includes/vc/vc_functions.php:483
+msgid "Columns"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:449
+msgid "Select the columns of Shop, default is 2 columns."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:462
+msgid "Metro"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:463
+msgid ""
+"Enable or disable the metro layout in Shop. <br /> <small>Note: The columns "
+"option above won't work anymore, all columns should be changed individually "
+"at product settings.</small>"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:475
+#: includes/customizer/soma_customizer.php:815 includes/vc/vc_functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:476
+msgid "Show or hide the sidebar in shop."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:488
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:489
+msgid "Show or hide breadcrumb in shop."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:501
+msgid "Result Count"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:502
+msgid "Show or hide result count paragraph in shop."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:514
+msgid "Order By"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:515
+msgid "Show or hide the orderby in shop."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:527
+#: includes/customizer/soma_customizer.php:829 includes/vc/vc_functions.php:124
+msgid "Offset"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:528
+msgid ""
+"Enable or disable the offset layout, first and third item will get top "
+"spacing."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:540
+#: includes/customizer/soma_customizer.php:767
+msgid "Spacing"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:541
+msgid ""
+"Enable custom spacing in shop, the range in the field below will be "
+"functionally."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:549
+#: includes/customizer/soma_customizer.php:776
+msgid "Spacing Range"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:550
+msgid ""
+"Add spacing to shop products, measurement is in pixel. Make sure to enable "
+"the checkbox above to make this work."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:561
+#: includes/customizer/soma_customizer.php:842 includes/vc/vc_functions.php:137
+#: includes/vc/vc_functions.php:511
+msgid "Shadow"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:562
+msgid "Show or hide products shadow in shop."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:574
+#: includes/customizer/soma_customizer.php:855 includes/vc/vc_functions.php:150
+msgid "Pagination"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:575
+msgid "Select the pagination type of shop."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:580
+#: includes/customizer/soma_customizer.php:861 includes/vc/vc_functions.php:155
+#: includes/vc/vc_functions.php:729
+msgid "Normal"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:587 includes/vc/vc_functions.php:163
+#: includes/vc/vc_functions.php:522
+msgid "Initial Loading Animation"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:588
+msgid "Select initial loading animation for products."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:593
+#: includes/customizer/soma_customizer.php:689
+#: includes/customizer/soma_customizer.php:757
+#: includes/customizer/soma_customizer.php:874 includes/vc/vc_functions.php:167
+#: includes/vc/vc_functions.php:526 includes/vc/vc_functions.php:904
+#: includes/vc/vc_functions.php:916
+msgid "None"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:594
+#: includes/customizer/soma_customizer.php:690
+#: includes/customizer/soma_customizer.php:758
+#: includes/customizer/soma_customizer.php:875 includes/vc/vc_functions.php:168
+#: includes/vc/vc_functions.php:527 includes/vc/vc_functions.php:905
+msgid "Fade In"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:595
+#: includes/customizer/soma_customizer.php:759
+#: includes/customizer/soma_customizer.php:876 includes/vc/vc_functions.php:169
+#: includes/vc/vc_functions.php:528
+msgid "Fade In (with delay)"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:596
+#: includes/customizer/soma_customizer.php:691
+#: includes/customizer/soma_customizer.php:760
+#: includes/customizer/soma_customizer.php:877 includes/vc/vc_functions.php:170
+#: includes/vc/vc_functions.php:529 includes/vc/vc_functions.php:906
+msgid "Fade In Up"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:597
+#: includes/customizer/soma_customizer.php:761
+#: includes/customizer/soma_customizer.php:878 includes/vc/vc_functions.php:171
+#: includes/vc/vc_functions.php:530
+msgid "Fade In Up (with delay)"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:605
+msgid "Second Thumbnail"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:606
+msgid ""
+"Enable the second thumbnail, it will be displayed on the hover of product(In "
+"Shop Page). The image that will be displayed, will be the first one in the "
+"product gallery."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:618
+msgid "Related Products"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:619
+msgid ""
+"Show or hide the related products, they appear below the product description."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:631
+msgid "Container"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:632
+msgid ""
+"Enable or disable the container, if enabled the elements will be centered in "
+"1170 pixel width."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:644
+#: includes/customizer/soma_customizer.php:886
+msgid "Navigation"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:645
+msgid "Show or hide the navigation in product."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:657
+#: includes/customizer/soma_customizer.php:899
+msgid "Navigation Category"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:658
+msgid ""
+"Switch on if you want the products to be navigated only in the same category."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:663
+#: includes/customizer/soma_customizer.php:905
+msgid "On"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:664
+#: includes/customizer/soma_customizer.php:906
+msgid "Off"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:670
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:671
+msgid ""
+"Select the alignment of content, if selected left the gallery will move to "
+"right and so on."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:676
+#: includes/customizer/soma_customizer.php:821 includes/vc/vc_functions.php:114
+#: includes/vc/vc_functions.php:429 includes/vc/vc_functions.php:504
+#: includes/vc/vc_functions.php:1003
+msgid "Left"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:677
+#: includes/customizer/soma_customizer.php:822 includes/vc/vc_functions.php:115
+#: includes/vc/vc_functions.php:430 includes/vc/vc_functions.php:505
+#: includes/vc/vc_functions.php:1005
+msgid "Right"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:683
+msgid "Content Animation"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:684
+msgid "Select the initial loading animation for the content."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:698
+msgid ""
+"Enable or disable the sticky content, the content will stay fixed when "
+"scrolling down."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:710
+msgid "Gallery Type"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:711
+msgid "Select the gallery type."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:716
+msgid "Default"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:717
+msgid "Masonry"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:723
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:724
+msgid ""
+"Show or hide the thumbnail in product. <br /> <small>Note: You can't hide "
+"thumbnail in default gallery type.</small>"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:736
+msgid "Gallery Columns"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:737
+msgid ""
+"Select the gallery columns. <br /> <small>Note: This option works only with "
+"Masonry as gallery type.</small>"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:742
+#: includes/customizer/soma_customizer.php:806 includes/vc/vc_functions.php:98
+#: includes/vc/vc_functions.php:487
+msgid "One Column"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:751
+msgid "Gallery Animation"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:752
+msgid "Select the initial loading animation for gallery images."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:768
+msgid ""
+"Enable custom spacing in gallery, the range in the field below will be "
+"functionally. <br /> <small>Note: It works only in Masonry Type.</small>"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:777
+msgid ""
+"Add spacing to gallery images, measurement is in pixel. Make sure to enable "
+"the checkbox above to make this work."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:792
+msgid "Write how many blog posts you want to display."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:801
+msgid "Select the columns of Blog, default is two columns."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:816 includes/vc/vc_functions.php:111
+msgid "Select the alignment of sidebar or hide it."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:830 includes/vc/vc_functions.php:126
+msgid ""
+"Enable or disable the offset layout, first and third post will get top "
+"spacing."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:843 includes/vc/vc_functions.php:139
+msgid "Show or hide posts shadow in blog."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:856
+msgid "Select the pagination type, default is normal."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:868
+msgid "Animation"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:869 includes/vc/vc_functions.php:165
+msgid "Select initial loading animation for posts."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:887
+msgid "Show or hide the navigation in blog single."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:900
+msgid ""
+"Switch on if you want the posts to be navigated only in the same category."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:912
+msgid "Share"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:913
+msgid "Select the type you want to display the share social media."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:927
+msgid "Facebook Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:928 includes/vc/vc_functions.php:580
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:936
+msgid "Twitter Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:937 includes/vc/vc_functions.php:587
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:945
+msgid "500px Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:946 includes/vc/vc_functions.php:594
+msgid "Enter your 500px URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:954
+msgid "Google Plus Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:955 includes/vc/vc_functions.php:601
+msgid "Enter your Google Plus URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:963
+msgid "Vimeo Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:964 includes/vc/vc_functions.php:608
+msgid "Enter your Vimeo URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:972
+msgid "Dribbble Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:973 includes/vc/vc_functions.php:615
+msgid "Enter your Dribbble URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:981
+msgid "Pinterest Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:982 includes/vc/vc_functions.php:622
+msgid "Enter your Pinterest URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:990
+msgid "Youtube Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:991 includes/vc/vc_functions.php:629
+msgid "Enter your Youtube URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:999
+msgid "Tumblr Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1000
+#: includes/vc/vc_functions.php:636
+msgid "Enter your Tumblr URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1008
+msgid "Linkedin Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1009
+#: includes/vc/vc_functions.php:643
+msgid "Enter your Linkedin URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1017
+msgid "Behance Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1018
+#: includes/vc/vc_functions.php:650
+msgid "Enter your Behance URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1026
+msgid "Flickr Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1027
+#: includes/vc/vc_functions.php:657
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1035
+msgid "Spotify Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1036
+#: includes/vc/vc_functions.php:664
+msgid "Enter your Spotify URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1044
+msgid "Instagram Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1045
+#: includes/vc/vc_functions.php:671
+msgid "Enter your Instagram URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1053
+msgid "GitHub Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1054
+#: includes/vc/vc_functions.php:678
+msgid "Enter your GitHub URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1062
+msgid "Houzz Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1063
+msgid "Enter your Houzz URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1071
+msgid "StackExchange Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1072
+#: includes/vc/vc_functions.php:685
+msgid "Enter your StackExchange URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1080
+msgid "SoundCloud Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1081
+#: includes/vc/vc_functions.php:692
+msgid "Enter your SoundCloud URL."
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1089
+msgid "VK Url"
+msgstr ""
+
+#: includes/customizer/soma_customizer.php:1090
+#: includes/vc/vc_functions.php:699
+msgid "Enter your VK URL."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:393
+#: includes/extras/class-tgm-plugin-activation.php:912
+#: includes/extras/class-tgm-plugin-activation.php:2618
+#: includes/extras/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:394
+#: includes/extras/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:1019
+#: includes/extras/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3594
+#: includes/extras/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3594
+#: includes/extras/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/extras/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/neuron/neuron_functions.php:261
+msgid "reply"
+msgstr ""
+
+#: includes/neuron/neuron_functions.php:384 single.php:99
+#: woocommerce/content-single-product.php:140
+msgid "Prev"
+msgstr ""
+
+#: includes/neuron/neuron_functions.php:401 single.php:102
+#: woocommerce/content-single-product.php:143
+msgid "Next"
+msgstr ""
+
+#: includes/vc/vc_functions.php:72
+msgid "Display a blog."
+msgstr ""
+
+#: includes/vc/vc_functions.php:73 includes/vc/vc_functions.php:200
+#: includes/vc/vc_functions.php:396 includes/vc/vc_functions.php:456
+#: includes/vc/vc_functions.php:554 includes/vc/vc_functions.php:713
+#: includes/vc/vc_functions.php:800
+msgid "NeuronElements"
+msgstr ""
+
+#: includes/vc/vc_functions.php:78
+msgid "Categories"
+msgstr ""
+
+#: includes/vc/vc_functions.php:81
+msgid "Select the categories from where you want to get the posts from."
+msgstr ""
+
+#: includes/vc/vc_functions.php:88
+msgid ""
+"Write how many posts per page you want, default is 10. Enter -1 if you want "
+"to show them all."
+msgstr ""
+
+#: includes/vc/vc_functions.php:95
+msgid "Select the columns of Blog, default is one column."
+msgstr ""
+
+#: includes/vc/vc_functions.php:97 includes/vc/vc_functions.php:113
+#: includes/vc/vc_functions.php:128 includes/vc/vc_functions.php:141
+#: includes/vc/vc_functions.php:154 includes/vc/vc_functions.php:234
+msgid "Inherit from Theme Options"
+msgstr ""
+
+#: includes/vc/vc_functions.php:103 includes/vc/vc_functions.php:118
+#: includes/vc/vc_functions.php:132 includes/vc/vc_functions.php:145
+#: includes/vc/vc_functions.php:158 includes/vc/vc_functions.php:173
+#: includes/vc/vc_functions.php:181 includes/vc/vc_functions.php:217
+msgid "Style"
+msgstr ""
+
+#: includes/vc/vc_functions.php:152
+msgid "Select the pagination type."
+msgstr ""
+
+#: includes/vc/vc_functions.php:178 includes/vc/vc_functions.php:375
+#: includes/vc/vc_functions.php:436 includes/vc/vc_functions.php:536
+msgid "Extra Class"
+msgstr ""
+
+#: includes/vc/vc_functions.php:180 includes/vc/vc_functions.php:377
+#: includes/vc/vc_functions.php:438 includes/vc/vc_functions.php:538
+#: includes/vc/vc_functions.php:781 includes/vc/vc_functions.php:937
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: includes/vc/vc_functions.php:185 includes/vc/vc_functions.php:381
+#: includes/vc/vc_functions.php:442 includes/vc/vc_functions.php:542
+#: includes/vc/vc_functions.php:785 includes/vc/vc_functions.php:941
+msgid "CSS"
+msgstr ""
+
+#: includes/vc/vc_functions.php:187 includes/vc/vc_functions.php:383
+#: includes/vc/vc_functions.php:444 includes/vc/vc_functions.php:544
+#: includes/vc/vc_functions.php:787 includes/vc/vc_functions.php:943
+msgid "Design Options"
+msgstr ""
+
+#: includes/vc/vc_functions.php:199
+msgid "Display social medias."
+msgstr ""
+
+#: includes/vc/vc_functions.php:230
+msgid "URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:232
+msgid ""
+"Inherit the URL's from Theme Options or enter them only for this element."
+msgstr ""
+
+#: includes/vc/vc_functions.php:235 includes/vc/vc_functions.php:759
+#: includes/vc/vc_functions.php:922
+msgid "Custom"
+msgstr ""
+
+#: includes/vc/vc_functions.php:242 includes/vc/vc_functions.php:578
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:244
+msgid "Enter the Facebook URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:249 includes/vc/vc_functions.php:585
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:251
+msgid "Enter the Twitter URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:256 includes/vc/vc_functions.php:592
+msgid "500px URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:258
+msgid "Enter the 500px URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:263 includes/vc/vc_functions.php:599
+msgid "Google Plus URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:265
+msgid "Enter the Google Plus URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:270 includes/vc/vc_functions.php:606
+msgid "Vimeo URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:272
+msgid "Enter the Vimeo URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:277 includes/vc/vc_functions.php:613
+msgid "Dribbble URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:279
+msgid "Enter the Dribbble URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:284 includes/vc/vc_functions.php:620
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:286
+msgid "Enter the Pinterest URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:291 includes/vc/vc_functions.php:627
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:293
+msgid "Enter the Youtube URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:298 includes/vc/vc_functions.php:634
+msgid "Tumblr URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:300
+msgid "Enter the Tumblr URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:305 includes/vc/vc_functions.php:641
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:307
+msgid "Enter the Linkedin URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:312 includes/vc/vc_functions.php:648
+msgid "Behance URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:314
+msgid "Enter the Behance URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:319 includes/vc/vc_functions.php:655
+msgid "Flickr URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:321
+msgid "Enter the Flickr URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:326 includes/vc/vc_functions.php:662
+msgid "Spotify URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:328
+msgid "Enter the Spotify URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:333 includes/vc/vc_functions.php:669
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:335
+msgid "Enter the Instagram URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:340 includes/vc/vc_functions.php:676
+msgid "GitHub URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:342
+msgid "Enter the GitHub URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:347
+msgid "Houzz URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:349
+msgid "Enter the Houzz URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:354
+msgid "StackExchange URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:356
+msgid "Enter the StackExchange URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:361
+msgid "Soundcloud URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:363
+msgid "Enter the Soundcloud URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:368
+msgid "VK URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:370
+msgid "Enter the VK URL."
+msgstr ""
+
+#: includes/vc/vc_functions.php:393
+msgid "About Me"
+msgstr ""
+
+#: includes/vc/vc_functions.php:395
+msgid "Display an about me."
+msgstr ""
+
+#: includes/vc/vc_functions.php:401 includes/vc/vc_functions.php:560
+msgid "Image"
+msgstr ""
+
+#: includes/vc/vc_functions.php:403
+msgid "Upload the image."
+msgstr ""
+
+#: includes/vc/vc_functions.php:407 includes/vc/vc_functions.php:465
+#: includes/vc/vc_functions.php:566 includes/vc/vc_functions.php:887
+msgid "Title"
+msgstr ""
+
+#: includes/vc/vc_functions.php:409 includes/vc/vc_functions.php:467
+msgid "Enter the title."
+msgstr ""
+
+#: includes/vc/vc_functions.php:413 includes/vc/vc_functions.php:471
+#: includes/vc/vc_functions.php:572
+msgid "Subtitle"
+msgstr ""
+
+#: includes/vc/vc_functions.php:415 includes/vc/vc_functions.php:473
+msgid "Enter the subtitle."
+msgstr ""
+
+#: includes/vc/vc_functions.php:419 includes/vc/vc_functions.php:477
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""
+
+#: includes/vc/vc_functions.php:421 includes/vc/vc_functions.php:479
+msgid "Enter the description."
+msgstr ""
+
+#: includes/vc/vc_functions.php:425 includes/vc/vc_functions.php:500
+#: includes/vc/vc_functions.php:998
+msgid "Alignment"
+msgstr ""
+
+#: includes/vc/vc_functions.php:426 includes/vc/vc_functions.php:501
+msgid "Select the alignment of content."
+msgstr ""
+
+#: includes/vc/vc_functions.php:454
+msgid "Team Members"
+msgstr ""
+
+#: includes/vc/vc_functions.php:457
+msgid "Display team members."
+msgstr ""
+
+#: includes/vc/vc_functions.php:484
+msgid "Select the columns of team members."
+msgstr ""
+
+#: includes/vc/vc_functions.php:494 includes/vc/vc_functions.php:772
+msgid "Background Color"
+msgstr ""
+
+#: includes/vc/vc_functions.php:496
+msgid "Change the background color of team members holder."
+msgstr ""
+
+#: includes/vc/vc_functions.php:512
+msgid "Show or hide team members shadow."
+msgstr ""
+
+#: includes/vc/vc_functions.php:523
+msgid "Select the initial loading animation for team members."
+msgstr ""
+
+#: includes/vc/vc_functions.php:552
+msgid "Team Member"
+msgstr ""
+
+#: includes/vc/vc_functions.php:562
+msgid "Upload the image for this team member."
+msgstr ""
+
+#: includes/vc/vc_functions.php:568
+msgid "Enter the title for this team member."
+msgstr ""
+
+#: includes/vc/vc_functions.php:574
+msgid "Enter the subtitle for this team member."
+msgstr ""
+
+#: includes/vc/vc_functions.php:683
+msgid "StackExchange  URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:690
+msgid "SoundCloud  URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:697
+msgid "VK  URL"
+msgstr ""
+
+#: includes/vc/vc_functions.php:710
+msgid "Button"
+msgstr ""
+
+#: includes/vc/vc_functions.php:712
+msgid "Display a button."
+msgstr ""
+
+#: includes/vc/vc_functions.php:718
+msgid "Link"
+msgstr ""
+
+#: includes/vc/vc_functions.php:719
+msgid "Select the link attributes."
+msgstr ""
+
+#: includes/vc/vc_functions.php:724
+msgid "Size"
+msgstr ""
+
+#: includes/vc/vc_functions.php:725
+msgid "Select the size of button."
+msgstr ""
+
+#: includes/vc/vc_functions.php:728
+msgid "Small"
+msgstr ""
+
+#: includes/vc/vc_functions.php:730
+msgid "Large"
+msgstr ""
+
+#: includes/vc/vc_functions.php:736
+msgid "Fluid"
+msgstr ""
+
+#: includes/vc/vc_functions.php:737
+msgid "Select if you want to the button to get the width of column."
+msgstr ""
+
+#: includes/vc/vc_functions.php:740
+msgid "Yes"
+msgstr ""
+
+#: includes/vc/vc_functions.php:741
+msgid "No"
+msgstr ""
+
+#: includes/vc/vc_functions.php:747
+msgid "Color"
+msgstr ""
+
+#: includes/vc/vc_functions.php:748
+msgid "Select the style of button, or select a custom color."
+msgstr ""
+
+#: includes/vc/vc_functions.php:753
+msgid "Grey"
+msgstr ""
+
+#: includes/vc/vc_functions.php:754
+msgid "Light Grey"
+msgstr ""
+
+#: includes/vc/vc_functions.php:755
+msgid "Green"
+msgstr ""
+
+#: includes/vc/vc_functions.php:756
+msgid "Red"
+msgstr ""
+
+#: includes/vc/vc_functions.php:757
+msgid "Blue"
+msgstr ""
+
+#: includes/vc/vc_functions.php:758
+msgid "Light Blue"
+msgstr ""
+
+#: includes/vc/vc_functions.php:765
+msgid "Text Color"
+msgstr ""
+
+#: includes/vc/vc_functions.php:767
+msgid "Change the color the text and the borders of button."
+msgstr ""
+
+#: includes/vc/vc_functions.php:774
+msgid "Change the background color of button."
+msgstr ""
+
+#: includes/vc/vc_functions.php:779 includes/vc/vc_functions.php:935
+msgid "Extra class name"
+msgstr ""
+
+#: includes/vc/vc_functions.php:797
+msgid "Service"
+msgstr ""
+
+#: includes/vc/vc_functions.php:799
+msgid "Display a service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:805
+msgid "Icon"
+msgstr ""
+
+#: includes/vc/vc_functions.php:807
+msgid "Select the icon pack of service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:809 includes/vc/vc_functions.php:821
+msgid "Open Iconic"
+msgstr ""
+
+#: includes/vc/vc_functions.php:810 includes/vc/vc_functions.php:832
+msgid "Typicons"
+msgstr ""
+
+#: includes/vc/vc_functions.php:811 includes/vc/vc_functions.php:843
+msgid "Entypo"
+msgstr ""
+
+#: includes/vc/vc_functions.php:812 includes/vc/vc_functions.php:854
+msgid "Linecons"
+msgstr ""
+
+#: includes/vc/vc_functions.php:813 includes/vc/vc_functions.php:865
+msgid "Mono Social"
+msgstr ""
+
+#: includes/vc/vc_functions.php:814 includes/vc/vc_functions.php:876
+msgid "Material"
+msgstr ""
+
+#: includes/vc/vc_functions.php:827
+msgid "Select the opcenic icon for your service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:838
+msgid "Select the typicons icon for your service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:849
+msgid "Select the entypo icon for your service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:860
+msgid "Select the linecons icon for your service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:871
+msgid "Select the monosocial icon for your service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:882
+msgid "Select the material icon for your service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:889
+msgid "Enter the title of service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:893
+msgid "Content"
+msgstr ""
+
+#: includes/vc/vc_functions.php:895
+msgid "Enter the content of this service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:899
+msgid "Initial loading animation"
+msgstr ""
+
+#: includes/vc/vc_functions.php:901
+msgid "Select initial loading animation for the service."
+msgstr ""
+
+#: includes/vc/vc_functions.php:912
+msgid "Data WOW Delay"
+msgstr ""
+
+#: includes/vc/vc_functions.php:914
+msgid ""
+"Select if you want the elements to come with delay when initial loading "
+"animation is selected.<br><small>Note: This option wont work if no initial "
+"loading animation is selected.</small>"
+msgstr ""
+
+#: includes/vc/vc_functions.php:917
+msgid "0.15 seconds"
+msgstr ""
+
+#: includes/vc/vc_functions.php:918
+msgid "0.3 seconds"
+msgstr ""
+
+#: includes/vc/vc_functions.php:919
+msgid "0.45 seconds"
+msgstr ""
+
+#: includes/vc/vc_functions.php:920
+msgid "0.6 seconds"
+msgstr ""
+
+#: includes/vc/vc_functions.php:921
+msgid "0.75 second"
+msgstr ""
+
+#: includes/vc/vc_functions.php:928
+msgid "Custom Seconds"
+msgstr ""
+
+#: includes/vc/vc_functions.php:930
+msgid "Enter the number of custom seconds."
+msgstr ""
+
+#: includes/vc/vc_functions.php:953
+msgid "Left and Right Spacing"
+msgstr ""
+
+#: includes/vc/vc_functions.php:954 includes/vc/vc_functions.php:969
+#: includes/vc/vc_functions.php:984 includes/vc/vc_functions.php:999
+msgid "Extra Options"
+msgstr ""
+
+#: includes/vc/vc_functions.php:955
+msgid "Select the left and right spacing of this row."
+msgstr ""
+
+#: includes/vc/vc_functions.php:958 includes/vc/vc_functions.php:973
+#: includes/vc/vc_functions.php:988
+msgid "0 pixel"
+msgstr ""
+
+#: includes/vc/vc_functions.php:959 includes/vc/vc_functions.php:974
+#: includes/vc/vc_functions.php:989
+msgid "30 pixels"
+msgstr ""
+
+#: includes/vc/vc_functions.php:960 includes/vc/vc_functions.php:975
+#: includes/vc/vc_functions.php:990
+msgid "50 pixels"
+msgstr ""
+
+#: includes/vc/vc_functions.php:961 includes/vc/vc_functions.php:976
+#: includes/vc/vc_functions.php:991
+msgid "75 pixels"
+msgstr ""
+
+#: includes/vc/vc_functions.php:962 includes/vc/vc_functions.php:977
+#: includes/vc/vc_functions.php:992
+msgid "100 pixels"
+msgstr ""
+
+#: includes/vc/vc_functions.php:968
+msgid "Top Spacing"
+msgstr ""
+
+#: includes/vc/vc_functions.php:970
+msgid "Select the top spacing of this row."
+msgstr ""
+
+#: includes/vc/vc_functions.php:983
+msgid "Bottom Spacing"
+msgstr ""
+
+#: includes/vc/vc_functions.php:985
+msgid "Select the bottom spacing of this row."
+msgstr ""
+
+#: includes/vc/vc_functions.php:1000
+msgid "Select the alignment of this row."
+msgstr ""
+
+#: includes/vc/vc_functions.php:1004
+msgid "Center"
+msgstr ""
+
+#: search.php:28
+msgid "results for"
+msgstr ""
+
+#: search.php:30
+msgid ""
+"The post you were looking for couldn't be found. The post could be removed "
+"or you misspelled the word while searching for it."
+msgstr ""
+
+#: search.php:43
+msgid "Continue"
+msgstr ""
+
+#: searchform.php:8 templates/searches/search-overlay.php:12
+msgid "Search..."
+msgstr ""
+
+#: templates/shop/product-masonry-gallery.php:90
+msgid "Awaiting product image"
+msgstr ""
+
+#: templates/shop/shop-basic.php:37 templates/shop/shop-creative.php:41
+msgid "Out of Stock!"
+msgstr ""
+
+#: templates/shop/shop-basic.php:39 templates/shop/shop-creative.php:43
+msgid "On Sale!"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:33
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:36 woocommerce/cart/mini-cart.php:87
+#: woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:58
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:74
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:95 woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:106
+#: woocommerce/order/order-details.php:46
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+msgid "Your Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:85
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:123 woocommerce/cart/mini-cart.php:70
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:104
+msgid "No products in the bag."
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:30
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:34
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:63
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:36
+#: woocommerce/checkout/thankyou.php:25
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:61
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:63
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:37
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:39
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45 woocommerce/checkout/thankyou.php:107
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:51
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:60
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:70
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:80
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:90
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+#: woocommerce/order/order-details-customer.php:35
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/order/order-details-customer.php:59
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "or"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+#: woocommerce/myaccount/form-reset-password.php:27
+#: woocommerce/myaccount/lost-password-confirmation.php:30
+#: woocommerce/myaccount/navigation.php:29
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:32
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:24
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:34
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:53
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:30
+msgid "Tracking"
+msgstr ""
+
+#: woocommerce/order/order-again.php:25
+msgid "Order again"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:39
+#: woocommerce/order/order-details-customer.php:62
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details.php:39
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:84
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:36
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:25
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:36
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:28
+msgid "Sale!"
+msgstr ""
